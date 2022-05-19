@@ -16,6 +16,8 @@ Use your terminal to quickly generate a portfolio page for displaying your GitHu
     * Project Description
     * Project GitHub Repo Link
 
+[Link to finished product example](https://millerchase.github.io/portfolio-generator/)
+
 ## Requirements:
 
 * Node
@@ -31,6 +33,19 @@ cd portfolio-generator
 `
 `npm install`
 
-## Screen Shots (process)
+### Screen Shot (Process)
 
-![]
+![Process screen shot](./assets/images/screenshot-process.png)
+
+### Screen Shot (Display)
+![Display screen shot](./assets/images/screenshot-display.png)
+
+## Made With:
+
+* Node
+* JavaScript
+* ES6
+
+## Contributors
+
+Made with ❤️ by Chase Miller.
